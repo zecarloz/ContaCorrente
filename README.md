@@ -8,7 +8,7 @@
 </p>
 
 
-### Criando uma aplicação de conta corrente
+### Criando uma aplicação de conta corrente onde realizaremos saque depositos transferencias...
 
 
 ### Objetivo : aprofundar os conhecimentos em O.O
