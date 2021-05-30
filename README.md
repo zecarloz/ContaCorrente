@@ -14,7 +14,7 @@
 
 
 ### Objetivo : aprofundar os conhecimentos em O.O
-### desenvolver habilidades em usar metodos ,Herança, relacionamentos entre classes...
+### desenvolver habilidades em usar metodos ,Herança, polimorfismo,relacionamentos entre classes...
 
 ## Running the app
 ### use a Ide de sua preferencia
