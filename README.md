@@ -5,7 +5,7 @@
 ![Logo of the project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG5aiCu3igLKllSE4eQOpKSY15TkXk7JpAOw&usqp=CAU)
 </P>
 ### projeto conta corrente
-<p align="center">
+<p text-align="center">
   <a href="" /></a>
 </p>
 
