@@ -12,7 +12,7 @@
 
 
 ### Objetivo : aprofundar os conhecimentos em O.O
-### desenvolver habilidades em usar metodos e sobrecarga .
+### desenvolver habilidades em usar metodos e conceitos de O O.
 
 ## Running the app
 ### use a Ide de sua preferencia
