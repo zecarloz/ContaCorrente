@@ -1,5 +1,6 @@
 # Orientacao_Objetos_Java
-# Java projeto conta corrente
+# Java 
+### projeto conta corrente
 <p align="center">
   <a href="" /></a>
 </p>
@@ -9,7 +10,7 @@
 
 
 ### Objetivo : aprofundar os conhecimentos em O.O
-
+### desenvolver habilidades em usar metodos e sobrecarga .
 
 ## Running the app
 
