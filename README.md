@@ -1,7 +1,7 @@
 # Orientacao_Objetos_Java
-# Nest_js
+# Java projeto conta corrente
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr8fFaJ39PhVUVfRaulcBGkugHatcvfwBR8SpA5kUHSInp8TeDLol2cmUlPNyGNJ6JQV8&usqp=CAU" width="320" alt="Nest Logo" /></a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
