@@ -24,7 +24,15 @@ public class appConta {
         System.out.println("================================================");
          System.out.println("O nome do correntista é : " + c2.getCorrentista().getNome());
         System.out.println("O numero da conta é: " + c2.getNumero());
-        System.out.println("O valor do do saldo é :" + c2.getSaldo());
+        System.out.println("O valor do saldo é :" + c2.getSaldo());
+        
+        if(c2.sacar(750.00f))
+            System.out.println("Saque efetuado com sucesso");
+        else
+            System.out.println("Saque não ralizado,saldo insuficiente");
+        c2.depositar(100.00f);
+        System.out.println("O valor do saldo é: " + c2.getSaldo());
+            
 
     }
 
