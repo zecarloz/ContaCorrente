@@ -17,7 +17,7 @@
 ### desenvolver habilidades em usar metodos ,Herança, polimorfismo,relacionamentos entre classes
 
 ## Running the app
-### use a Ide de sua preferencia
+### use a Ide de sua preferencia .
 
 
 # development
