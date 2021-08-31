@@ -16,7 +16,7 @@
 ### Objetivo : aprofundar os conhecimentos em Orientação a Objetos
 ### desenvolver habilidades em usar metodos ,Herança, polimorfismo,relacionamentos entre classes
 
-## Running the app
+## Abra o App
 ### use a Ide de sua preferencia
 
 
