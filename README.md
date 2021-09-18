@@ -13,7 +13,7 @@
 ### Criando uma aplicação de conta corrente onde realizaremos saque depositos transferencias
 
 
-### Objetivo : aprofundar os conhecimentos em Orientação a Objetos
+### Objetivo : aprofundar os conhecimentos em Orientação a Objetos.
 ### desenvolver habilidades em usar metodos ,Herança, polimorfismo,relacionamentos entre classes
 
 ## Abra o App .
