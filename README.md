@@ -20,7 +20,7 @@
 ### use a Ide de sua preferencia
 
 
-# development .
+# development 
 
 
 - Author - Jose Carlos de Oliveira
