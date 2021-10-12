@@ -19,10 +19,6 @@
 ## Abra o App
 ### use a Ide de sua preferencia
 
-
-# development 
-
-
 - Author - Jose Carlos de Oliveira
 - Github - https://github.com/zecarloz
 
