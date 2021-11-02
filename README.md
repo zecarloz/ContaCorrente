@@ -20,7 +20,7 @@
 ### use a Ide de sua preferencia
 
 - Author - Jose Carlos de Oliveira
-- Github - https://github.com/zecarloz
+
 
 ## License:
 
