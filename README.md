@@ -19,9 +19,6 @@
 ## Abra o App
 ### use a Ide de sua preferencia
 
-- Author - Jose Carlos de Oliveira
-
-
 ## License:
 
 Java is  [MIT licensed](LICENSE) 
