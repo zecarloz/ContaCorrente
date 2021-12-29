@@ -17,7 +17,7 @@
 ### desenvolver habilidades em usar metodos ,Herança, polimorfismo,relacionamentos entre classes
 
 ## Abra o App
-### use a Ide de sua preferencia
+### use a Ide de sua preferencia .
 
 ## License:
 
